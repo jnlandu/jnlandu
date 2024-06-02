@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align='center'>
   📕 My Blog posts
 </h3>
-<p> Make a tour to  <a href="https://jnlandu.github.com"> jnlandu</a> </p>
+<p> Make a tour to  <a href="[https://jnlandu.github.com](https://jnlandu.github.io)"> jnlandu</a> </p>
 
 <!-- BLOG-POST-LIST:START 
 - [Computing square roots modulo a prime with the Tonelli-Shanks algorithm](https://zerobone.net/blog/math/tonelli-shanks/)
