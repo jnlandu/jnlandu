@@ -48,9 +48,15 @@ I'm Jeremie Nlandu, a software developer with a passion for building robust appl
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)
 ![Docker](https://img.shields.io/badge/Docker-4B88F6?style=for-the-badge&logo=docker&logoColor=4B88F6)
-![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&logo=linux&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-4B88F6?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=005571)
+![MLFlow](https://img.shields.io/badge/MLFlow-FF3D00?style=for-the-badge&labelColor=black&logo=mlflow&logoColor=FF3D00)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=000000)
+![EvidentlyAI](https://img.shields.io/badge/EvidentlyAI-4B88F6?style=for-the-badge&labelColor=black&logo=evidentlyai&logoColor=4B88F6)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0089D6)
 
 <br />
 <br />
@@ -65,3 +71,11 @@ I'm Jeremie Nlandu, a software developer with a passion for building robust appl
   </a>
   <br/>
 </a>
+
+---
+
+
+
+<div align="center">
+  <p>Thanks for visiting my profile! ⭐️ If you found any of my projects helpful, consider starring the repositories!</p>
+</div>
