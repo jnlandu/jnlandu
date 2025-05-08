@@ -1,4 +1,4 @@
-![banner](https://github.com/jnlandu/jnlandu/blob/main/img/jbanner.png)
+![banner](img/banner.png)
 
 <div align="center">
 
@@ -18,8 +18,7 @@
 
 ## About Me
   
-I'm Jeremie Nlandu, an  AI/ML enthusiast and a mathematics lover. I am currently a Machine Learning Tutor fellow at the African Institute for Mathematical Sciences (AIMS) in Senegal, in the Artificial Intelligent stream. I am passionate about using technology to solve real-world problems and I am always eager to learn new things. I have a strong background in Python, JavaScript, and React, and I am currently exploring the world of machine learning and artificial intelligence.
-
+I'm Jeremie Nlandu, a software developer with a passion for building robust applications and exploring new technologies. My expertise includes working with various programming languages and frameworks. I'm dedicated to creating efficient and scalable solutions while continuously learning and improving my skills.
 </div>
 
 ## Contributions
