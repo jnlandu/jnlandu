@@ -17,8 +17,16 @@
 <h3 align="center"></h3>
 
 ## About Me
-  
-I'm Jeremie Nlandu, a software developer with a passion for building robust applications and exploring new technologies. My expertise includes working with various programming languages and frameworks. I'm dedicated to creating efficient and scalable solutions while continuously learning and improving my skills.
+I am Jeremie Nlandu, currently Machine Learning Tutor Fellow at [AIMS](https://www.aims-senegal.org/)  in the Artificial Intelligence stream AMMI. I am  a Math lover and AI enthusiast. I am passionate about using AI to solve real-world problems and make a positive impact on society. I have a strong background in mathematics, statistics, and programming, and I am always eager to learn new skills and technologies.
+I am currently working on several projects related to machine learning, data analysis, and web development. I enjoy collaborating with others and sharing knowledge, so feel free to reach out if you want to connect or discuss ideas!
+
+I am currently learning about:
+- **Cloud Computing**: I am exploring cloud platforms like AWS and Azure to understand how to deploy and scale machine learning models in production.
+- **Cloud Native Technologies**: I am learning about containerization with Docker and orchestration with Kubernetes to build scalable and efficient applications.
+- **MLOps**: I am diving into MLOps practices to streamline the deployment and monitoring of machine learning models in production environments.
+- **Data Engineering**: I am learning about data pipelines, ETL processes, and data warehousing to effectively manage and analyze large datasets.
+
+
 </div>
 
 ## Contributions
