@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://jnlandu.github.io/)](https://jnlandu.github.io/)
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://jmabiala.com/)](https://jmabiala.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremie-nlandu/)](https://www.linkedin.com/in/jeremie-nlandu/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/jnlandu)](https://github.com/jnlandu/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jnlandu)](https://www.kaggle.com/jnlandu)
-[![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:jeremie.nlandu@example.com)](mailto:jeremie.nlandu@example.com)
+[![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:jeremy@aimsammi.org)](mailto:jeremy@aimsammi.org)
 [![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/jnlandu)](https://www.buymeacoffee.com/jnlandu)
 <a href="https://github.com/jnlandu/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jnlandu"></a>
 <a href="https://github.com/jnlandu?tab=followers"><img src="https://img.shields.io/github/followers/jnlandu?label=Followers&style=social" alt="GitHub Badge"></a>
