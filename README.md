@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jnlandu/jnlandu/blob/main/img/jbanner.png" alt="Jeremie Nlandu" width="100%">
+  <img src="https://github.com/jnlandu/jnlandu/blob/main/img/jbanner.png" alt="Jeremie Nlandu Banner" width="100%">
   
   # Jeremie Nlandu
 
@@ -26,9 +26,9 @@
 
 Hello! I'm Jeremie, a passionate software developer focused on building efficient and scalable solutions. I enjoy tackling complex problems and exploring new technologies to create innovative applications.
 
-- 🔭 I'm currently working on building robust web applications and data-driven solutions
-- 🌱 I'm constantly learning and improving my skills in modern development frameworks
-- 💬 Ask me about software architecture, web development, or tech solutions
+- 🔭 I'm currently working on building robust web applications and data-driven solutions.
+- 🌱 I'm constantly learning and improving my skills in modern development frameworks.
+- 💬 Ask me about software architecture, web development, or tech solutions.
 - 📫 How to reach me: [jeremy@aimsammi.org](mailto:jeremy@aimsammi.org)
 
 ## 🛠️ Tech Stack
@@ -55,16 +55,12 @@ Hello! I'm Jeremie, a passionate software developer focused on building efficien
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnlandu&theme=react&border=4B88F6&background=0D1117" alt="GitHub Streak Stats" width="70%" />
-  
-  <p></p>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnlandu&theme=github_dark&border=4B88F6" alt="GitHub Activity Graph" width="70%" />
-  
-  <p></p>
-  
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnlandu&theme=github_dark&border=4B88F6" alt="GitHub Profile Summary" width="70%" />
+  <br />
   <div>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jnlandu&show_icons=true&count_private=true&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="180em" />
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jnlandu&langs_count=6&layout=compact&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="180em" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jnlandu&show_icons=true&count_private=true&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" alt="Detailed GitHub Stats" height="180px" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jnlandu&langs_count=6&layout=compact&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" alt="Top Languages" height="180px" />
   </div>
 </div>
 
@@ -74,9 +70,6 @@ Hello! I'm Jeremie, a passionate software developer focused on building efficien
   
   [![Projects](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=for-the-badge)](https://github.com/jnlandu?tab=repositories)
   
-</div>
-
-<div align="center">
   <p>Check out my repositories to see my projects and contributions!</p>
   <a href="https://github.com/jnlandu?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-2F2F2F?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
