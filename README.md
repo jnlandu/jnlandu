@@ -54,7 +54,8 @@ I am currently learning about:
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F20)
 ![Docker](https://img.shields.io/badge/Docker-4B88F6?style=for-the-badge&logo=docker&logoColor=4B88F6)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,6 +66,7 @@ I am currently learning about:
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=000000)
 ![EvidentlyAI](https://img.shields.io/badge/EvidentlyAI-4B88F6?style=for-the-badge&labelColor=black&logo=evidentlyai&logoColor=4B88F6)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0089D6)
+
 
 <br />
 <br />
