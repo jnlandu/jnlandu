@@ -23,10 +23,8 @@ Je suis **Jeremie (Nlandu) Mabiala**, actuellement *Machine Learning Tutor Fello
 J’explore en ce moment :
 - **Cloud computing** (AWS, Azure) pour déployer/faire évoluer des modèles.
 - **Cloud-native** (Docker, Kubernetes).
-- **MLOps** (déploiement, monitoring, CI/CD pour ML).
-- **Data engineering** (pipelines, ETL, data warehouse).
+- **MLOps** (déploiement, surveillance, CI/CD pour ML).
+- **Data engineering** (pipelines, ETL, entrepôt de données).
 
-## Contributions
-*(Identique à la version EN : statistiques, streak, cartes de profil, etc.)*
 
-> ⭐️ Si mes projets t’aident, pense à leur mettre une étoile !
+</div>
