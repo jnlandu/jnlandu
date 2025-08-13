@@ -22,7 +22,9 @@
 <h3 align="center"></h3>
 
 ## About Me
-I am **Jeremie (Nlandu) Mabiala**,, currently Machine Learning Tutor Fellow at [AIMS](https://www.aims-senegal.org/)  in the Artificial Intelligence stream [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/). I am  a Math lover and AI enthusiast. I am passionate about using AI to solve real-world problems and make a positive impact on society. I have a strong background in mathematics, statistics, and programming, and I am always eager to learn new skills and technologies.
+
+I am **Jeremie (Nlandu) Mabiala**, currently Machine Learning Tutor Fellow at [AIMS](https://www.aims-senegal.org/)  in the Artificial Intelligence stream [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/). I am  a Math lover and AI enthusiast. I am passionate about using AI to solve real-world problems and make a positive impact on society. I have a strong background in mathematics, statistics, and programming, and I am always eager to learn new skills and technologies.
+
 I am currently working on several projects related to machine learning, data analysis, and web development. I enjoy collaborating with others and sharing knowledge, so feel free to reach out if you want to connect or discuss ideas!
 
 I am currently learning about:
@@ -52,6 +54,9 @@ I am currently learning about:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnlandu&theme=github_dark&border=4B88F6" alt="GitHub Contribution"/>
   </a>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/senegal/jnlandu.svg)](https://user-badge.committers.top/senegal/jnlandu)
+
 
 
 ## 🧰 Languages and Tools
