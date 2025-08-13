@@ -48,6 +48,9 @@ I am currently learning about:
   </a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/senegal/jnlandu.svg)](https://user-badge.committers.top/senegal/jnlandu)
+
+
 
 ## 🧰 Languages and Tools
 
