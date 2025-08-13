@@ -1,3 +1,8 @@
+<!-- Top of README.md -->
+<p align="right">
+  <a href="README.fr.md">Français</a> | <strong>English</strong>
+</p>
+
 ![banner](https://github.com/jnlandu/jnlandu/blob/main/img/jbanner.png)
 
 <div align="center">
@@ -17,7 +22,9 @@
 <h3 align="center"></h3>
 
 ## About Me
-I am Jeremie Nlandu, currently Machine Learning Student at [AIMS](https://www.aims-senegal.org/)  in the Artificial Intelligence stream [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/). I am  a Math lover and AI enthusiast. I am passionate about using AI to solve real-world problems and make a positive impact on society. I have a strong background in mathematics, statistics, and programming, and I am always eager to learn new skills and technologies.
+
+I am **Jeremie (Nlandu) Mabiala**, currently Machine Learning Tutor Fellow at [AIMS](https://www.aims-senegal.org/)  in the Artificial Intelligence stream [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/). I am  a Math lover and AI enthusiast. I am passionate about using AI to solve real-world problems and make a positive impact on society. I have a strong background in mathematics, statistics, and programming, and I am always eager to learn new skills and technologies.
+
 I am currently working on several projects related to machine learning, data analysis, and web development. I enjoy collaborating with others and sharing knowledge, so feel free to reach out if you want to connect or discuss ideas!
 
 I am currently learning about:
@@ -57,7 +64,8 @@ I am currently learning about:
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F20)
 ![Docker](https://img.shields.io/badge/Docker-4B88F6?style=for-the-badge&logo=docker&logoColor=4B88F6)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -68,6 +76,7 @@ I am currently learning about:
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=000000)
 ![EvidentlyAI](https://img.shields.io/badge/EvidentlyAI-4B88F6?style=for-the-badge&labelColor=black&logo=evidentlyai&logoColor=4B88F6)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0089D6)
+
 
 <br />
 <br />
