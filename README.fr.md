@@ -18,7 +18,7 @@
 <h5 align="center">Salut 👋 Ravi de te voir ici !</h5>
 
 ## À propos
-Je suis **Jeremie (Nlandu) Mabiala**, actuellement *Machine Learning Tutor Fellow* à l’[AIMS](https://www.aims-senegal.org/) (parcours IA [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/)). Passionné de maths et d’IA, j’aime construire des solutions concrètes et partager le savoir.
+Je suis **Jeremie Mabiala**, actuellement  étudiant à l’[AIMS](https://www.aims-senegal.org/) (parcours IA [AMMI](https://aims-senegal.org/african-masters-in-machine-learning/)). 
 
 J’explore en ce moment :
 - **Cloud computing** (AWS, Azure) pour déployer/faire évoluer des modèles.
@@ -49,7 +49,7 @@ J’explore en ce moment :
 </p>
 
 
-## 🧰 Langages et Outils
+## Langages et Outils
 
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
@@ -85,5 +85,5 @@ J’explore en ce moment :
 ---
 
 <div align="center">
-  <p>Merci de visiter mon profil ! ⭐️ Si tu trouves mes projets utiles, pense à mettre une étoile sur les dépôts !</p>
+  <p>Merci de visiter mon profil !</p>
 </div>
